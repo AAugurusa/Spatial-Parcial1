@@ -52,7 +52,10 @@ MonoBehaviour:
   saveUserProgress: 1
   tasksAreOrdered: 1
   celebrateOnComplete: 1
-  questRewards: []
+  questRewards:
+  - type: 0
+    id: 1
+    amount: 0
   tasks:
   - id: 1
     name: Derivadas
